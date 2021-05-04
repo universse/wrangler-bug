@@ -1,0 +1,10 @@
+{
+  "name": "wrangler-dev-bug",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Wrangler",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

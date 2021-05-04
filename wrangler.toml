@@ -1,0 +1,10 @@
+name = "dev-bug"
+type = "javascript"
+workers_dev = true
+
+account_id = "<ACCOUNT_ID_HERE>"
+route = ""
+zone_id = ""
+
+[build.upload]
+format = "service-worker"
